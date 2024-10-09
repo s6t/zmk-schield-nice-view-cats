@@ -24,7 +24,6 @@ manifest:
     - name: zmk-shield-nice-view-cats
       remote: s6t
       revision: main
-      path: config/boards/shields/nice_view_cats
   self:
     path: config
 ```
